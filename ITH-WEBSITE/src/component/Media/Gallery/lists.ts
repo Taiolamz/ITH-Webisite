@@ -10,4 +10,5 @@ export const gallery = [
   GalleryImageTwo,
   GalleryImageThree,
   GalleryImageFour,
+  GalleryImageFour,
 ];
